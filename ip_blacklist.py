@@ -1,6 +1,8 @@
 #PARA VIGILAR LAS IP DE LOS SERVIDORES DE MORGAN MEDIA
 #PARA INCLUIR UNA GUI EN ESTE PROGRAMA
 
+# FORK de codingjuanrios
+
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from time import sleep
